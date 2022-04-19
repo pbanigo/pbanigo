@@ -17,7 +17,9 @@
 
 - 📝 I regularly write articles on [https://peterbanigo.com](https://peterbanigo.com)
 
-- 📫 How to reach me **https://peterbanigo.com/contact/**
+- 📫 How to reach me https://peterbanigo.com/contact/
+
+- 💬 Ask me about **Cars, Business, Startups, Marketing, Renewable Energy & Life**
 
 - 📄Experience [https://peterbanigo.com](https://peterbanigo.com)
 
