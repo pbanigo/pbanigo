@@ -1,5 +1,4 @@
 <div align="center"><img src="giphy.gif" alt="Welcome to my Github!" align="center"></div>
-<div align="center"><img src="https://i.ibb.co/JvMNfPk/gnome-gif.gif" alt="Welcome to my Github!" align="center"></div>
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">Builder, Engineer, Project Manager, Entrepreneur & Problem-solver</h3>
 
