@@ -27,6 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A simple whitelist DApp with Hardhat &amp; NextJS](https://peterbanigo.com/a-simple-whitelist-dapp-with-hardhat-nextjs/)
+- [Creating an Ethereum token](https://peterbanigo.com/creating-an-ethereum-token/)
+- [Hosting a React JS app on your DirectAdmin server](https://peterbanigo.com/hosting-a-react-js-app-on-your-directadmin-server/)
+- [Cloning a HDD to upgrade to SSD with Macrium Reflect 8](https://peterbanigo.com/cloning-a-hdd-to-upgrade-to-ssd-with-macrium-reflect-8/)
 <!-- BLOG-POST-LIST:END -->
 
 
