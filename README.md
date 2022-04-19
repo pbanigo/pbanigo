@@ -1,6 +1,7 @@
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1Su0BeFy6fXXGa977m" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/jigtalk-puzzle-jigsaw-jigsawpuzzle-1Su0BeFy6fXXGa977m">via GIPHY</a></p>
 <div align="center"><img src="https://i.ibb.co/JvMNfPk/gnome-gif.gif" alt="Welcome to my Github!" align="center"></div>
 <h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">Builder, Entrepreneur & Problem-solver</h3>
+<h3 align="center">Builder, Engineer, Project Manager, Entrepreneur & Problem-solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbanigo&label=Profile%20views&color=0e75b6&style=flat" alt="pbanigo" /> </p>
 
