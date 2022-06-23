@@ -12,9 +12,9 @@
 - 🔭 I’m currently working on [Target ICT](https://targetict.co.uk)
 
 - 🌱 I’m currently learning **Solidity**
-
+<!--
 - 🤝 I’m looking for help with [Shortage Jobs](https://shortagejobs.com)
-
+-->
 - 👨‍💻 Most of my projects are available at [https://targetict.co.uk/portfolio](https://targetict.co.uk/portfolio)
 
 - 📝 I regularly write articles on [https://peterbanigo.com](https://peterbanigo.com)
