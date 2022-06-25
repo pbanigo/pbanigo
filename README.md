@@ -27,10 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A basic CRUD MVC app with Node, Express JS, Mongo DB and EJS](https://peterbanigo.com/a-basic-crud-mvc-app-with-node-express-js-mongo-db-and-ejs/)
+- [Using newer Node JS versions with Windows 7](https://peterbanigo.com/using-newer-node-js-versions-with-windows-7/)
 - [A simple whitelist DApp with Hardhat &amp; NextJS](https://peterbanigo.com/a-simple-whitelist-dapp-with-hardhat-nextjs/)
 - [Creating an Ethereum token](https://peterbanigo.com/creating-an-ethereum-token/)
-- [Hosting a React JS app on your DirectAdmin server](https://peterbanigo.com/hosting-a-react-js-app-on-your-directadmin-server/)
-- [Cloning a HDD to upgrade to SSD with Macrium Reflect 8](https://peterbanigo.com/cloning-a-hdd-to-upgrade-to-ssd-with-macrium-reflect-8/)
 <!-- BLOG-POST-LIST:END -->
 
 
