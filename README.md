@@ -2,7 +2,7 @@
 <div align="center"><img src="giphy.gif" alt="Welcome to my Github!" align="center"></div>
 -->
 <h1 align="center">Peter here 👋!</h1>
-<h3 align="center">Builder, Engineer, Project Manager, Entrepreneur & Problem-solver</h3>
+<h3 align="center">Builder, engineer, project manager, entrepreneur & problem-solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pbanigo&label=Profile%20views&color=0e75b6&style=flat" alt="pbanigo" /> </p>
 
