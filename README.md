@@ -89,9 +89,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [My bad experience with the Schneider Homaya Inverter](https://peterbanigo.com/my-bad-experience-with-the-schneider-homaya-inverter/)
+- [Building a chrome extension to fix a small annoyance](https://peterbanigo.com/building-a-chrome-extension-to-fix-a-small-annoyance/)
 - [Free alternatives to Heroku for hosting your open source projects](https://peterbanigo.com/free-alternatives-to-heroku/)
 - [A basic CRUD MVC app with Node, Express JS, Mongo DB and EJS](https://peterbanigo.com/a-basic-crud-mvc-app-with-node-express-js-mongo-db-and-ejs/)
-- [Using newer Node JS versions with Windows 7](https://peterbanigo.com/using-newer-node-js-versions-with-windows-7/)
 <!-- BLOG-POST-LIST:END -->
 
 
