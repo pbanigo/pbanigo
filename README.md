@@ -88,10 +88,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My bad experience with the Schneider Homaya Inverter](https://peterbanigo.com/my-bad-experience-with-the-schneider-homaya-inverter/)
 - [Free alternatives to Heroku for hosting your open source projects](https://peterbanigo.com/free-alternatives-to-heroku/)
 - [A basic CRUD MVC app with Node, Express JS, Mongo DB and EJS](https://peterbanigo.com/a-basic-crud-mvc-app-with-node-express-js-mongo-db-and-ejs/)
 - [Using newer Node JS versions with Windows 7](https://peterbanigo.com/using-newer-node-js-versions-with-windows-7/)
-- [A simple whitelist DApp with Hardhat &amp; NextJS](https://peterbanigo.com/a-simple-whitelist-dapp-with-hardhat-nextjs/)
 <!-- BLOG-POST-LIST:END -->
 
 
