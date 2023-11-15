@@ -88,10 +88,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to turn on debug mode in WordPress using wp-config.php](https://peterbanigo.com/how-to-turn-on-debug-mode-in-wordpress-using-wp-config-php/)
 - [How to speed up your old Windows 10 computer free in 5 minutes!](https://peterbanigo.com/how-to-speed-up-your-old-windows-10-computer-free-in-5-minutes/)
 - [The Tech your Business Podcast](https://peterbanigo.com/the-tech-your-business-podcast/)
 - [My terrible experience with the Schneider Homaya Inverter](https://peterbanigo.com/my-bad-experience-with-the-schneider-homaya-inverter/)
-- [Building a chrome extension to fix a small annoyance](https://peterbanigo.com/building-a-chrome-extension-to-fix-a-small-annoyance/)
 <!-- BLOG-POST-LIST:END -->
 
 
