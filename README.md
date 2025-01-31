@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abinyeb" target="blank"><img src="https://img.shields.io/twitter/follow/abinyeb?logo=twitter&style=for-the-badge" alt="abinyeb" /></a> </p>
 
-- 🔭 I’m currently working on [Target ICT](https://targetict.co.uk)
+- 🔭 I’m currently working on [Instant Setters](https://instantsetters.com)
 
 - 🌱 I’m currently learning **Solidity**
 <!--
